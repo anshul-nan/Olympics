@@ -1,0 +1,181 @@
+body{
+    background-color: white;
+    height: 100%;
+
+}
+#s{
+    position: absolute;
+    top:60px;
+    left:20%;
+    font-size: 180px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+#h{
+    font-size:90px;
+    
+    
+    
+   
+    font-family: Arial, Helvetica, sans-serif;
+}
+#h:hover{
+    background-color: red;
+    color:beige;
+    width:100px
+}
+#asec{
+    position: absolute;
+    top:500px;
+    left:30px;
+}
+li{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    padding:5px
+}
+li:hover{
+    background-color: #0072CE;
+    color: white;
+    padding: 0px;
+}
+ul{
+    list-style-type: none;
+}
+#bsec{
+    position: absolute;
+    top:960px;
+    left:30px;
+}
+#cs{
+    position: absolute;
+    top:1700px;
+    left:30px;
+}
+#ds{
+    position: absolute;
+    top:2470px;
+    left:30px;
+}
+#es{
+    position: absolute;
+    top:2740px;
+    left:30px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#fsec{
+    position: absolute;
+    top:500px;
+    left:470px;
+}
+#gs{
+    position: absolute;
+    top:960px;
+    left:470px;
+}
+#hs{
+    position: absolute;
+    top:1260px;
+    left:470px;
+}
+#is{
+    position: absolute;
+    top:1580px;
+    left:470px;
+}
+#js{
+    position: absolute;
+    top:1900px;
+    left:470px;
+}
+#ks{
+    position: absolute;
+    top:2200px;
+    left:470px;
+}
+#ls{
+    position: absolute;
+    top:2500px;
+    left:470px;
+}
+#ns{
+    position: absolute;
+    top:2850px;
+    left:470px;
+}
+#ms{
+    position: absolute;
+    top:500px;
+    left:870px;
+}
+#rs{
+    position: absolute;
+    top:850px;
+    left:870px;
+}
+
+#ss{
+    position: absolute;
+    top:1280px;
+    left:870px;
+}
+#ts{
+    position: absolute;
+    top:2125px;
+    left:870px;
+}
+#vs{
+    position: absolute;
+    top:2535px;
+    left:870px;
+}
+#ws{
+    position: absolute;
+    top:2820px;
+    left:870px;
+}
+.links{
+    
+    padding-left:33px  ;
+    padding-right: 25px;
+    display: inline;
+    font-family:  Arial, sans-serif;
+    font-size: 30px;
+    text-decoration:none ;
+    color: white;
+    background-color:#0072CE;
+}
+.a{
+    font-weight:bolder;
+    text-decoration: none;
+    color: white;
+    background-color:#0072CE;
+}
+.a:hover{
+    font-weight:bolder;
+    text-decoration: none;
+    color: white;
+    background-color:#0072CE;
+}
+.menu{
+    
+    position: fixed;
+    top: 0px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+    width: 100%;
+    background-color: #0072CE;
+    margin-top: 0px;
+    color: white;
+}
+#olm{
+    color:white;
+font-family:Arial, sans-serif;
+
+    }

@@ -1,0 +1,134 @@
+body{
+    background-color:white;
+}
+#olm{
+    color:white;
+font-family:Arial, sans-serif;
+
+    }
+
+
+h3{
+    color:black;
+    padding-left:90px
+}
+
+
+.p{
+    font-size: 72px; 
+    font-weight: 900; 
+    letter-spacing: 3px; 
+    font-family: 'Times New Roman', serif;
+    color: black;
+    padding: 120px;
+
+}
+p{
+    position: absolute;
+    right: 20px; /* Aligns the paragraph to the left edge */
+    top: 150px;
+    color:black;
+    font-size: 25px;
+    
+}
+h2{
+    position: absolute;
+    left:40px;
+    color:black;
+    font-weight: 900; /* Very bold */
+    letter-spacing: 3px; 
+    font-family: 'Times New Roman', serif;
+    font-size: 50px;
+
+}
+#topimg{
+    position: absolute;
+    top:800px ;
+    height: 400px;
+    width:100%;
+}
+
+
+#olychan{
+    color: black;
+    width:100% ;
+    position: absolute;
+    top:300;
+
+}
+.menu{
+    
+    position: fixed;
+    top: 0px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+    width: 100%;
+    background-color: #0072CE;
+    margin-top: 0px;
+    color: white;
+}
+.links{
+    
+    padding-left:33px  ;
+    padding-right: 25px;
+    display: inline;
+    font-family:  Arial, sans-serif;
+    font-size: 30px;
+    text-decoration:none ;
+    color: white;
+}
+a{
+    font-weight:bolder;
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    font-weight:bolder;
+    text-decoration: none;
+    color: white;
+    
+}
+#b{
+    position: absolute;
+    left:60px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+#img{
+    position: absolute;
+    left:70px;
+    height: 100px;
+    width: 200px;
+}
+#ath{
+    position: absolute;
+    right:70px;
+    height: 400px;
+    width: 700px;
+    top:2px;
+}
+.li{
+    font-size:large;
+    position: absolute;
+    top:270px;
+    left: 10px;
+    color: white;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    background-color: black;
+    width: 190px;
+     
+}
+
+#li{
+    font-size:large;
+    position: absolute;
+    top:320px;
+    left: 10px;
+    color: white;
+    font-family:'Segoe UI', Tahoma,  Verdana, sans-serif;
+    background-color: black;
+    width: 190px;
+     
+}
+
