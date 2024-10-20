@@ -1,7 +1,7 @@
 function search(){
     o=document.getElementById("input").value;
     p=o.toLowerCase();
-    f=p.replace(" ","-")
+    f=p.replace(/\s+/g,"-")
     link="https://olympics.com/en/athletes/"+f+"/";
     console.log(link)
    
