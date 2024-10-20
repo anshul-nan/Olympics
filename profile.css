@@ -38,7 +38,7 @@ iframe{
     
     position: fixed;
     top: 0px;
-    right: 30px;
+    right: 0px;
     z-index: 10;
     cursor: pointer;
     width: 100%;
